@@ -69,5 +69,3 @@ export default function App() {
     </NavigationContainer>
   );
 }
-
-// Comentário final para abrir o Pulls Requests
